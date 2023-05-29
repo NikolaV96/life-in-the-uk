@@ -1,0 +1,257 @@
+[{
+    "id": 1,
+    "question": "What British explorer mapped the coast of Australia?",
+    "options": [
+    { "id": "A", "text": "Captain James Cook" },
+    { "id": "B", "text": "Florence Nightingale" },
+    { "id": "C", "text": "Sake Dean Mahomet" },
+    { "id": "D", "text": "The Duke of Wellington" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 2,
+    "question": "Is the statement below TRUE or FALSE? A National Insurance number does not on its own prove to an employer that you have the right to work in the UK.",
+    "options": [
+    { "id": "A", "text": "TRUE" },
+    { "id": "B", "text": "FALSE" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 3,
+    "question": "Is the statement below TRUE or FALSE? As part of the citizenship ceremony, new citizens pledge an oath to the King.",
+    "options": [
+    { "id": "A", "text": "TRUE" },
+    { "id": "B", "text": "FALSE" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 4,
+    "question": "Which of the following countries is NOT a member of the Commonwealth?",
+    "options": [
+    { "id": "A", "text": "Ghana" },
+    { "id": "B", "text": "Cyprus" },
+    { "id": "C", "text": "Greece" },
+    { "id": "D", "text": "Sierra Leone" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 5,
+    "question": "Which TWO islands are closely linked to the UK but are not part of it?",
+    "options": [
+    { "id": "A", "text": "Jersey" },
+    { "id": "B", "text": "The Channel Islands" },
+    { "id": "C", "text": "Maldives" },
+    { "id": "D", "text": "The Isle of Man" }
+    ],
+    "answer": ["B", "D"]
+    },
+    {
+    "id": 6,
+    "question": "Who was the first person to print books using a printing press in England?",
+    "options": [
+    { "id": "A", "text": "William Caxton" },
+    { "id": "B", "text": "Geoffrey Chaucer" },
+    { "id": "C", "text": "John Barbour" },
+    { "id": "D", "text": "Jane Austen" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 7,
+    "question": "Which is the most famous rugby union competition?",
+    "options": [
+    { "id": "A", "text": "The Grand National" },
+    { "id": "B", "text": "The Six Nations Championship" },
+    { "id": "C", "text": "The All England Championship" },
+    { "id": "D", "text": "The Super League" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 8,
+    "question": "Is the statement below TRUE or FALSE? In the UK, brutality and violence in the home is a serious crime.",
+    "options": [
+    { "id": "A", "text": "TRUE" },
+    { "id": "B", "text": "FALSE" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 9,
+    "question": "What is the name of the only tennis 'Grand Slam' played on grass?",
+    "options": [
+    { "id": "A", "text": "The Australian Open" },
+    { "id": "B", "text": "The Wimbledon Championships" },
+    { "id": "C", "text": "The Indian Wells Tournament" },
+    { "id": "D", "text": "The Queen's Open" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 10,
+    "question": "Which of the following is an ancient festival and has roots in the pagan festival to mark the beginning of winter?",
+    "options": [
+    { "id": "A", "text": "Lent" },
+    { "id": "B", "text": "Easter" },
+    { "id": "C", "text": "Halloween" },
+    { "id": "D", "text": "Hogmanay" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 11,
+    "question": "Which TWO British kings believed in the 'Divine Right of Kings'?",
+    "options": [
+    { "id": "A", "text": "Richard I" },
+    { "id": "B", "text": "James I" },
+    { "id": "C", "text": "Charles I" },
+    { "id": "D", "text": "Henry V" }
+    ],
+    "answer": ["B", "C"]
+    },
+    {
+    "id": 12,
+    "question": "What percentage of the total British population is located in Northern Ireland?",
+    "options": [
+    { "id": "A", "text": "30%" },
+    { "id": "B", "text": "5%" },
+    { "id": "C", "text": "8%" },
+    { "id": "D", "text": "Less than 3%" }
+    ],
+    "answer": "D"
+    },
+    {
+    "id": 13,
+    "question": "What system is used to elect the Members of the Scottish Parliament?",
+    "options": [
+    { "id": "A", "text": "Instant run-off" },
+    { "id": "B", "text": "Referendum" },
+    { "id": "C", "text": "First past the post" },
+    { "id": "D", "text": "Proportional representation" }
+    ],
+    "answer": "D"
+    },
+    {
+    "id": 14,
+    "question": "How many pence are there in a pound?",
+    "options": [
+    { "id": "A", "text": "100 pence" },
+    { "id": "B", "text": "50 pence" },
+    { "id": "C", "text": "60 pence" },
+    { "id": "D", "text": "10 pence" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 15,
+    "question": "What garden is located in Northern Ireland?",
+    "options": [
+    { "id": "A", "text": "Kew Gardens" },
+    { "id": "B", "text": "Mount Stewart" },
+    { "id": "C", "text": "Hidcote" },
+    { "id": "D", "text": "Sissinghurst" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 16,
+    "question": "Who directed the British film 'Women in Love'?",
+    "options": [
+    { "id": "A", "text": "Mike Newell" },
+    { "id": "B", "text": "Nicolas Roeg" },
+    { "id": "C", "text": "Ken Russel" },
+    { "id": "D", "text": "Roland Joffé" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 17,
+    "question": "Which of the following lines does NOT form part of the citizenship pledge?",
+    "options": [
+    { "id": "A", "text": "I will give my loyalty to the United Kingdom" },
+    { "id": "B", "text": "I will uphold its democratic values" },
+    { "id": "C", "text": "Long live our noble King!" },
+    { "id": "D", "text": "I will observe its laws faithfully" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 18,
+    "question": "What Palace was a cast-iron and plate-glass building originally erected in Hyde Park, London, England, to house the Great Exhibition of 1851?",
+    "options": [
+    { "id": "A", "text": "Dream Palace" },
+    { "id": "B", "text": "Gold Palace" },
+    { "id": "C", "text": "The Great Palace" },
+    { "id": "D", "text": "Crystal Palace" }
+    ],
+    "answer": "D"
+    },
+    {
+    "id": 19,
+    "question": "Is the statement below TRUE or FALSE? In the UK, if the jury finds a defendant guilty, the judge decides the penalty:",
+    "options": [
+    { "id": "A", "text": "TRUE" },
+    { "id": "B", "text": "FALSE" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 20,
+    "question": "What is a bank holiday?",
+    "options": [
+    { "id": "A", "text": "A festival celebrated by banks" },
+    { "id": "B", "text": "Public holidays when banks open all day" },
+    { "id": "C", "text": "Public holidays when banks are closed" },
+    { "id": "D", "text": "Private holidays for people working in banks" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 21,
+    "question": "During the Crusades, European Christians fought for the control of:",
+    "options": [
+    { "id": "A", "text": "The holy land" },
+    { "id": "B", "text": "Ireland" },
+    { "id": "C", "text": "Central Europe" },
+    { "id": "D", "text": "England" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 22,
+    "question": "In which British city can you visit the National Horseracing Museum?",
+    "options": [
+    { "id": "A", "text": "Newmarket, Suffolk" },
+    { "id": "B", "text": "Ipswich, Scotland" },
+    { "id": "C", "text": "Norwich, Norfolk" },
+    { "id": "D", "text": "Thetford, Norfolk" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 23,
+    "question": "Who pioneered in-vitro fertilization in the UK?",
+    "options": [
+    { "id": "A", "text": "Sir Frank Whittle and Patrick Steptoe" },
+    { "id": "B", "text": "Sir Robert Edwards and Patrick Steptoe" },
+    { "id": "C", "text": "Francis Creek and Sir Ian Wilmot" },
+    { "id": "D", "text": "Sir Robert Edwards and Keith Campbell" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 24,
+    "question": "Which of the following is NOT a principle included in the European Convention of Human Rights?",
+    "options": [
+    { "id": "A", "text": "Prohibition of torture" },
+    { "id": "B", "text": "Prohibition of immoral thoughts" },
+    { "id": "C", "text": "Freedom of expression (speech)" },
+    { "id": "D", "text": "Prohibition of slavery and forced labour" }
+    ],
+    "answer": "B"
+    }
+]

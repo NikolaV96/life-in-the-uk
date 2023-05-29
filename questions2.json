@@ -1,0 +1,263 @@
+[{
+    "id": 1,
+    "question": "What is the Church of England usually known as in other countries?",
+    "options": [
+    { "id": "A", "text": "The Anglican Church" },
+    { "id": "B", "text": "The State Church" },
+    { "id": "C", "text": "The Great Church" },
+    { "id": "D", "text": "The Episcopal Church" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 2,
+    "question": "What achievement can be attributed to the British sailor Sir Francis Chichester?",
+    "options": [
+    { "id": "A", "text": "To be the first person to have sailed around the world" },
+    { "id": "B", "text": "To be the fastest person to have sailed around the world" },
+    { "id": "C", "text": "To be the first person to have sailed singlehanded around the world" },
+    { "id": "D", "text": "To be the fastest person to have sailed around the UK" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 3,
+    "question": "Who lost a lot of their power after the Battle of Culloden in 1746?",
+    "options": [
+    { "id": "A", "text": "The Clans" },
+    { "id": "B", "text": "The King" },
+    { "id": "C", "text": "The Parliament" },
+    { "id": "D", "text": "The Farmers" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 4,
+    "question": "Who are the peers?",
+    "options": [
+    { "id": "A", "text": "The Members of the Cabinet" },
+    { "id": "B", "text": "The Members of the House of Lords" },
+    { "id": "C", "text": "The Members of the House of Commons" },
+    { "id": "D", "text": "A group of Magistrates" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 5,
+    "question": "How many member states does the UN have?",
+    "options": [
+    { "id": "A", "text": "5" },
+    { "id": "B", "text": "27" },
+    { "id": "C", "text": "15" },
+    { "id": "D", "text": "190" }
+    ],
+    "answer": "D"
+    },
+    {
+    "id": 6,
+    "question": "During which historical period did hunter-gatherers live in Britain?",
+    "options": [
+    { "id": "A", "text": "Stone Age" },
+    { "id": "B", "text": "Golden Age" },
+    { "id": "C", "text": "Iron Age" },
+    { "id": "D", "text": "Bronze Age" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 7,
+    "question": "When did the English Civil war begin?",
+    "options": [
+    { "id": "A", "text": "1640" },
+    { "id": "B", "text": "1642" },
+    { "id": "C", "text": "1598" },
+    { "id": "D", "text": "1588" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 8,
+    "question": "What is the length of the Bayeux tapestry?",
+    "options": [
+    { "id": "A", "text": "130ft" },
+    { "id": "B", "text": "230ft" },
+    { "id": "C", "text": "330ft" },
+    { "id": "D", "text": "320ft" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 9,
+    "question": "Why is it called 'The Glorious Revolution'?",
+    "options": [
+    { "id": "A", "text": "Because there was no fighting" },
+    { "id": "B", "text": "Because of new technological advances" },
+    { "id": "C", "text": "Because of new achievements" },
+    { "id": "D", "text": "Women were given the right to vote" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 10,
+    "question": "The War of the Roses started in:",
+    "options": [
+    { "id": "A", "text": "1499" },
+    { "id": "B", "text": "1080" },
+    { "id": "C", "text": "1455" },
+    { "id": "D", "text": "1359" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 11,
+    "question": "Which clan was killed because of not taking an oath?",
+    "options": [
+    { "id": "A", "text": "The MacDonalds of Keppoch" },
+    { "id": "B", "text": "The MacDonalds of Clanranald" },
+    { "id": "C", "text": "The MacDonalds of Glencoe" },
+    { "id": "D", "text": "The MacDonalds of Sleat" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 12,
+    "question": "How are the Members of the European Parliament (MEPs) elected?",
+    "options": [
+    { "id": "A", "text": "By the first past the post system" },
+    { "id": "B", "text": "By a system of instant run-off" },
+    { "id": "C", "text": "By a system of proportional representation" },
+    { "id": "D", "text": "For their professional achievements" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 13,
+    "question": "Which organization looks after the Edinburgh Castle?",
+    "options": [
+    { "id": "A", "text": "The National Trust" },
+    { "id": "B", "text": "NSPCC" },
+    { "id": "C", "text": "The Red Cross" },
+    { "id": "D", "text": "Historic Scotland" }
+    ],
+    "answer": "D"
+    },
+    {
+    "id": 14,
+    "question": "Who wrote the book 'The Lord of the Rings'?",
+    "options": [
+    { "id": "A", "text": "JK Rowling" },
+    { "id": "B", "text": "Ian Fleming" },
+    { "id": "C", "text": "JRR Tolkien" },
+    { "id": "D", "text": "Hilary Mantel" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 15,
+    "question": "What does the 'R' Plate stand for?",
+    "options": [
+    { "id": "A", "text": "Refreshed Data" },
+    { "id": "B", "text": "Rage Drinking" },
+    { "id": "C", "text": "Repaired Damages" },
+    { "id": "D", "text": "Restricted Driver" }
+    ],
+    "answer": "D"
+    },
+    {
+    "id": 16,
+    "question": "Whose responsibility is to interpret the law and to make sure that trials are conducted fairly?",
+    "options": [
+    { "id": "A", "text": "The Queen" },
+    { "id": "B", "text": "The Chief officers" },
+    { "id": "C", "text": "The judiciary" },
+    { "id": "D", "text": "The MPs" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 17,
+    "question": "How many Houses did the Scottish Parliament have in the Middle Ages?",
+    "options": [
+    { "id": "A", "text": "4" },
+    { "id": "B", "text": "2" },
+    { "id": "C", "text": "3" },
+    { "id": "D", "text": "6" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 18,
+    "question": "What name is given to the group of artists who painted detailed pictures on religious or literary themes using bright colours in the 19th century?",
+    "options": [
+    { "id": "A", "text": "The Pre-Raphaelites" },
+    { "id": "B", "text": "The Surrealists" },
+    { "id": "C", "text": "The Dada movement" },
+    { "id": "D", "text": "The Gothics" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 19,
+    "question": "What can schools do to raise money?",
+    "options": [
+    { "id": "A", "text": "Reduce teachers' wages." },
+    { "id": "B", "text": "Ask the local council for extra funding" },
+    { "id": "C", "text": "Ask parents for money" },
+    { "id": "D", "text": "Organize fundraising events" }
+    ],
+    "answer": "D"
+    },
+    {
+    "id": 20,
+    "question": "What was the name of the Roman missionary who became the first Archbishop of Canterbury?",
+    "options": [
+    { "id": "A", "text": "St Georgio" },
+    { "id": "B", "text": "St Columba" },
+    { "id": "C", "text": "St Augustine" },
+    { "id": "D", "text": "St Patrick" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 21,
+    "question": "Who invaded the Falkland Islands in 1982?",
+    "options": [
+    { "id": "A", "text": "Argentina" },
+    { "id": "B", "text": "Spain" },
+    { "id": "C", "text": "Portugal" },
+    { "id": "D", "text": "Columbia" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 22,
+    "question": "Is the statement below TRUE or FALSE? People cannot be taken to court for owing money.",
+    "options": [
+    { "id": "A", "text": "TRUE" },
+    { "id": "B", "text": "FALSE" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 23,
+    "question": "Where is the best-preserved prehistoric village 'Skara Brae on Orkney' located?",
+    "options": [
+    { "id": "A", "text": "Scotland" },
+    { "id": "B", "text": "England" },
+    { "id": "C", "text": "Ireland" },
+    { "id": "D", "text": "Wales" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 24,
+    "question": "What was the purpose of the Corn Laws in 1846?",
+    "options": [
+    { "id": "A", "text": "To improve working conditions" },
+    { "id": "B", "text": "To improve transport systems" },
+    { "id": "C", "text": "To prevent the import of cheap grain" },
+    { "id": "D", "text": "To build railways" }
+    ],
+    "answer": "C"
+    }
+]

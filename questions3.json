@@ -1,0 +1,263 @@
+[{
+    "id": 1,
+    "question": "Which of the following countries does not belong to the European Union?",
+    "options": [
+    { "id": "A", "text": "Croatia" },
+    { "id": "B", "text": "Latvia" },
+    { "id": "C", "text": "Norway" },
+    { "id": "D", "text": "Malta" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 2,
+    "question": "Where did Charles II hide to escape from Cromwell's army?",
+    "options": [
+    { "id": "A", "text": "In a Church" },
+    { "id": "B", "text": "In a garden" },
+    { "id": "C", "text": "In a house" },
+    { "id": "D", "text": "In an oak tree" }
+    ],
+    "answer": "D"
+    },
+    {
+    "id": 3,
+    "question": "Which of the following charities works for the preservation of buildings, the coastline and the countryside in England?",
+    "options": [
+    { "id": "A", "text": "The National Trust" },
+    { "id": "B", "text": "The Cup Trust" },
+    { "id": "C", "text": "WWF" },
+    { "id": "D", "text": "The Marcela Trust" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 4,
+    "question": "Who is able to change the Prime Minister during his/her term?",
+    "options": [
+    { "id": "A", "text": "The Governing Party" },
+    { "id": "B", "text": "The Speaker" },
+    { "id": "C", "text": "Fellow MPs" },
+    { "id": "D", "text": "The Monarch" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 5,
+    "question": "During the 2012 Olympic Games, where was the main Olympic site located?",
+    "options": [
+    { "id": "A", "text": "Stratford" },
+    { "id": "B", "text": "Croydon" },
+    { "id": "C", "text": "Weybridge" },
+    { "id": "D", "text": "Harrow" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 6,
+    "question": "How many members does a jury have in Scotland?",
+    "options": [
+    { "id": "A", "text": "12" },
+    { "id": "B", "text": "15" },
+    { "id": "C", "text": "14" },
+    { "id": "D", "text": "13" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 7,
+    "question": "Where does Aldeburgh festival take place?",
+    "options": [
+    { "id": "A", "text": "Norfolk" },
+    { "id": "B", "text": "Edinburgh" },
+    { "id": "C", "text": "Suffolk" },
+    { "id": "D", "text": "Canterbury" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 8,
+    "question": "Which of the following countries is NOT a member of the Commonwealth?",
+    "options": [
+    { "id": "A", "text": "Gambia" },
+    { "id": "B", "text": "Tonga" },
+    { "id": "C", "text": "Vanuatu" },
+    { "id": "D", "text": "Bangladesh" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 9,
+    "question": "How long does it take to give blood?",
+    "options": [
+    { "id": "A", "text": "20 minutes" },
+    { "id": "B", "text": "2 hours" },
+    { "id": "C", "text": "10 minutes" },
+    { "id": "D", "text": "1 hour" }
+    ],
+    "answer": "D"
+    },
+    {
+    "id": 10,
+    "question": "Why was Mary known as 'Bloody Mary'?",
+    "options": [
+    { "id": "A", "text": "She killed her father" },
+    { "id": "B", "text": "She fought in numerous battles" },
+    { "id": "C", "text": "She put her sister in prison" },
+    { "id": "D", "text": "She persecuted Protestants" }
+    ],
+    "answer": "D"
+    },
+    {
+    "id": 11,
+    "question": "Which of the following lines belongs to William Shakespeare's play Hamlet?",
+    "options": [
+    { "id": "A", "text": "A rose by any other name" },
+    { "id": "B", "text": "To be or not to be" },
+    { "id": "C", "text": "All the world's a stage" },
+    { "id": "D", "text": "Once more unto the breach" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 12,
+    "question": "How long is Hannukah celebrated for?",
+    "options": [
+    { "id": "A", "text": "9 days" },
+    { "id": "B", "text": "8 days" },
+    { "id": "C", "text": "7 days" },
+    { "id": "D", "text": "10 days" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 13,
+    "question": "During which century did modern tennis evolve in England?",
+    "options": [
+    { "id": "A", "text": "18th century" },
+    { "id": "B", "text": "17th century" },
+    { "id": "C", "text": "16th century" },
+    { "id": "D", "text": "19th century" }
+    ],
+    "answer": "D"
+    },
+    {
+    "id": 14,
+    "question": "Is the statement below TRUE or FALSE? The police force is a private service that helps and protects everyone.",
+    "options": [
+    { "id": "A", "text": "TRUE" },
+    { "id": "B", "text": "FALSE" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 15,
+    "question": "What percentage of the workforce are women?",
+    "options": [
+    { "id": "A", "text": "60%" },
+    { "id": "B", "text": "30%" },
+    { "id": "C", "text": "50%" },
+    { "id": "D", "text": "40%" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 16,
+    "question": "Who discovered Insulin?",
+    "options": [
+    { "id": "A", "text": "Ian Wilmot" },
+    { "id": "B", "text": "Mary Peters" },
+    { "id": "C", "text": "Patrick Steptoe" },
+    { "id": "D", "text": "John MacLeod" }
+    ],
+    "answer": "D"
+    },
+    {
+    "id": 17,
+    "question": "Which of the following is NOT a fundamental principle of British life?",
+    "options": [
+    { "id": "A", "text": "Individual liberty" },
+    { "id": "B", "text": "Democracy" },
+    { "id": "C", "text": "Communism" },
+    { "id": "D", "text": "Participation in community life" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 18,
+    "question": "When did the BBC start the world's first regular television service?",
+    "options": [
+    { "id": "A", "text": "1940" },
+    { "id": "B", "text": "1923" },
+    { "id": "C", "text": "1936" },
+    { "id": "D", "text": "1944" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 19,
+    "question": "Who is responsible for subjects such as education, health and defence?",
+    "options": [
+    { "id": "A", "text": "Foreign Secretary" },
+    { "id": "B", "text": "Secretary of State" },
+    { "id": "C", "text": "Chancellor of the Exchequer" },
+    { "id": "D", "text": "Home Secretary" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 20,
+    "question": "In which British city was Emmeline Pankhurst born?",
+    "options": [
+    { "id": "A", "text": "Somerset" },
+    { "id": "B", "text": "Bristol" },
+    { "id": "C", "text": "Manchester" },
+    { "id": "D", "text": "Canterbury" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 21,
+    "question": "What did the first farmers build in Britain?",
+    "options": [
+    { "id": "A", "text": "Houses and Monuments" },
+    { "id": "B", "text": "Pyramids and Stadiums" },
+    { "id": "C", "text": "Theatres and Houses" },
+    { "id": "D", "text": "Hospitals and Roads" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 22,
+    "question": "What British King introduced the Statute of Rhuddlan by which Wales was annexed to the Crown of England in 1284?",
+    "options": [
+    { "id": "A", "text": "King Edward I of England" },
+    { "id": "B", "text": "King John" },
+    { "id": "C", "text": "King Henry VII" },
+    { "id": "D", "text": "King Richard VIII" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 23,
+    "question": "Where is Loch Lomond located?",
+    "options": [
+    { "id": "A", "text": "Northern Ireland" },
+    { "id": "B", "text": "Wales" },
+    { "id": "C", "text": "England" },
+    { "id": "D", "text": "Scotland" }
+    ],
+    "answer": "D"
+    },
+    {
+    "id": 24,
+    "question": "What was Dolly the sheep famous for?",
+    "options": [
+    { "id": "A", "text": "She was the first sheep in space" },
+    { "id": "B", "text": "She was the first cloned mammal" },
+    { "id": "C", "text": "She was born with two heads" },
+    { "id": "D", "text": "She was the sheep that lived the longest" }
+    ],
+    "answer": "B"
+    }
+]

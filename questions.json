@@ -1,0 +1,266 @@
+[  
+  { "id": 1,    
+    "question": "Where is the centrepiece to the Remembrance Day service, known as Cenotaph located?",    
+    "options": [      
+      { "id": "A", "text": "Warwick, West Midlands" },      
+      { "id": "B", "text": "Reading, Berkshire" },      
+      { "id": "C", "text": "Whitehall, London" },      
+      { "id": "D", "text": "Canterbury, Kent" }    
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 2,
+    "question": "Who appoints the members of the Cabinet?",
+    "options": [
+      { "id": "A", "text": "The people of the UK" },
+      { "id": "B", "text": "The Speaker" },
+      { "id": "C", "text": "The Monarch" },
+      { "id": "D", "text": "The Prime Minister" }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following cities is known as the home of golf?",
+    "options": [
+      { "id": "A", "text": "Norfolk" },
+      { "id": "B", "text": "St. Andrews" },
+      { "id": "C", "text": "Swansea" },
+      { "id": "D", "text": "Salisbury" }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "question": "Who tells visitors about the history of the Tower of London?",
+    "options": [
+      { "id": "A", "text": "History graduates" },
+      { "id": "B", "text": "Instructors" },
+      { "id": "C", "text": "London Guides" },
+      { "id": "D", "text": "Beefeaters" }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 5,
+    "question": "People over ____ can apply for a free TV licence.",
+    "options": [
+      { "id": "A", "text": "60" },
+      { "id": "B", "text": "75" },
+      { "id": "C", "text": "65" },
+      { "id": "D", "text": "70" }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 6,
+    "question": "When did Britain Recognise the American colonies' independence?",
+    "options": [
+      { "id": "A", "text": "1751" },
+      { "id": "B", "text": "1763" },
+      { "id": "C", "text": "1776" },
+      { "id": "D", "text": "1783" }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 7,
+    "question": "When did the First World War come to an end?",
+    "options": [
+      { "id": "A", "text": "13th of November 1916" },
+      { "id": "B", "text": "10th of November 1918" },
+      { "id": "C", "text": "11th of November 1916" },
+      { "id": "D", "text": "11th of November 1918" }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 8,
+    "question": "When is Vaisakhi celebrated?",
+    "options": [
+      { "id": "A", "text": "In June" },
+      { "id": "B", "text": "In March" },
+      { "id": "C", "text": "In May" },
+      { "id": "D", "text": "In April" }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 9,
+    "question": "Which TWO of the following are the roles of the NATO?",
+    "options": [
+      { "id": "A", "text": "Maintain peace between all its members" },
+      { "id": "B", "text": "Prevent war and promote international peace and security" },
+      { "id": "C", "text": "Help each other if they come under attack" },
+      { "id": "D", "text": "Protect and promote human rights in those countries" }
+    ],
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 10,
+    "question": "How many National Parks are there in the UK?",
+    "options": [
+      { "id": "A", "text": "7" },
+      { "id": "B", "text": "12" },
+      { "id": "C", "text": "10" },
+      { "id": "D", "text": "15" }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 11,
+    "question": "Who is responsible for keeping the order during political debates and for making sure the rules are followed?",
+    "options": [
+      { "id": "A", "text": "A senior judge" },
+      { "id": "B", "text": "The Speaker" },
+      { "id": "C", "text": "The King" },
+      { "id": "D", "text": "The prime Minister" }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "question": "Who directed the film Chariots of Fire?",
+    "options": [
+      { "id": "A", "text": "Carol Reed" },
+      { "id": "B", "text": "David Lean" },
+      { "id": "C", "text": "Frank Launder" },
+      { "id": "D", "text": "Hugh Hudson" }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 13,
+    "question": "Which of these is a famous classical music events in the UK?",
+    "options": [
+      { "id": "A", "text": "The Proms" },
+      { "id": "B", "text": "T in the Park" },
+      { "id": "C", "text": "Glastonbury Festival" },
+      { "id": "D", "text": "Creamfields" }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 14,
+    "question": "What was 'Shampooing' wehn it was first introduced?",
+    "options": [
+      { "id": "A", "text": "Washing your head with soap" },
+      { "id": "B", "text": "Cleaning your hair" },
+      { "id": "C", "text": "The Indian art of washing" },
+      { "id": "D", "text": "The Indian art of head massage" }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 15,
+    "question": "Where is the National Museum of Wales located?",
+    "options": [
+      { "id": "A", "text": "Newport" },
+      { "id": "B", "text": "Bangor" },
+      { "id": "C", "text": "Cardiff" },
+      { "id": "D", "text": "Swansea" }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 16,
+    "question": "What tools did the Bronze age people introduce?",
+    "options": [
+      { "id": "A", "text": "Roads" },
+      { "id": "B", "text": "Gold Currency" },
+      { "id": "C", "text": "Basic farming machinery" },
+      { "id": "D", "text": "Ornaments and weapons" }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 17,
+    "question": "How many members from the Council of Europe?",
+    "options": [
+      { "id": "A", "text": "59" },
+      { "id": "B", "text": "30" },
+      { "id": "C", "text": "47" },
+      { "id": "D", "text": "124" }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 18,
+    "question": "Which of these is an Anglo-Saxon poem?",
+    "options": [
+      { "id": "A", "text": "Jude the Obscure" },
+      { "id": "B", "text": "Pride and Prejudice" },
+      { "id": "C", "text": "Beowulf" },
+      { "id": "D", "text": "Mr Hyde" }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 19,
+    "question": "When were the Houses of the Parliament established?",
+    "options": [
+      { "id": "A", "text": "In the 1920s" },
+      { "id": "B", "text": "During the Middle Ages" },
+      { "id": "C", "text": "In the 1970s" },
+      { "id": "D", "text": "During the iron Age" }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "question": "What yearly event happens between Oxford and Cambridge Universities?",
+    "options": [
+      { "id": "A", "text": "A Rowing Race" },
+      { "id": "B", "text": "A Game of Football" },
+      { "id": "C", "text": "A Tennis Match" },
+      { "id": "D", "text": "A game of Basketball" }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "question": "What should you do if your vehichle is over three years old?",
+    "options": [
+      { "id": "A", "text": "Take it to the MOT six months." },
+      { "id": "B", "text": "Take it to the MOT 3 years." },
+      { "id": "C", "text": "Take it to the MOT 2 years." },
+      { "id": "D", "text": "Take it to the MOT every year." }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 22,
+    "question": "What does the York Minster have?",
+    "options": [
+      { "id": "A", "text": "Stained Glass" },
+      { "id": "B", "text": "Stained Bricks" },
+      { "id": "C", "text": "Stained Wood" },
+      { "id": "D", "text": "Stained Limestone" }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 23,
+    "question": "How many colonies were granted independence in 1947?",
+    "options": [
+      { "id": "A", "text": "13" },
+      { "id": "B", "text": "9" },
+      { "id": "C", "text": "11" },
+      { "id": "D", "text": "7" }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 24,
+    "question": "What event is known as the evacuation of 300,000 people from the beaches?",
+    "options": [
+      { "id": "A", "text": "The Blitz spririt" },
+      { "id": "B", "text": "The Battle of Britain" },
+      { "id": "C", "text": "D-Day" },
+      { "id": "D", "text": "The Dunkirk spirit" }
+    ],
+    "answer": "D"
+  }
+  
+]

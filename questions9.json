@@ -1,0 +1,264 @@
+[{
+    "id": 1,
+    "question": "What characterized the artists from the Pre-Raphaelites movement?",
+    "options": [
+    { "id": "A", "text": "They painted people in country or garden scenery in bright colours" },
+    { "id": "B", "text": "They painted people in country or garden scenery in dark colours" },
+    { "id": "C", "text": "They painted abstract pictures on religious or literary themes in dark colours" },
+    { "id": "D", "text": "They painted detailed pictures on religious or literary themes in bright colours" }
+    ],
+    "answer": "D"
+    },
+    {
+    "id": 2,
+    "question": "Who led the establishment of the NHS in the UK?",
+    "options": [
+    { "id": "A", "text": "Emmeline Pankhurst" },
+    { "id": "B", "text": "Aneurin (Nye) Bevan" },
+    { "id": "C", "text": "Richard Arkwright" },
+    { "id": "D", "text": "Robert Burns" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 3,
+    "question": "What term was used to refer to the idea that the king was directly appointed by God to rule and that the king should be able to act without having to seek approval from Parliament?",
+    "options": [
+    { "id": "A", "text": "The 'Divine Right of Kings'" },
+    { "id": "B", "text": "The 'Divine Right of Gods'" },
+    { "id": "C", "text": "The 'Spiritual Right of Gods'" },
+    { "id": "D", "text": "The 'Royal Right of Kings'" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 4,
+    "question": "What was the name of the project through which the atomic bomb was developed?",
+    "options": [
+    { "id": "A", "text": "The Manhattan project" },
+    { "id": "B", "text": "The Michigan project" },
+    { "id": "C", "text": "The Cambridge project" },
+    { "id": "D", "text": "The Manchester project" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 5,
+    "question": "Who supported the Parliament during the Civil War that began in 1642?",
+    "options": [
+    { "id": "A", "text": "The Squareheads" },
+    { "id": "B", "text": "The Cavaliers" },
+    { "id": "C", "text": "The Suffragettes" },
+    { "id": "D", "text": "The Roundheads" }
+    ],
+    "answer": "D"
+    },
+    {
+    "id": 6,
+    "question": "Which of the following poets wrote poems inspired by Scotland and the traditional stories and songs from the area on the borders of Scotland and England?",
+    "options": [
+    { "id": "A", "text": "Geoffrey Chaucer" },
+    { "id": "B", "text": "William Blake" },
+    { "id": "C", "text": "Sir Walter Scott" },
+    { "id": "D", "text": "William Wordsworth" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 7,
+    "question": "Where is the five-day horse race known as Royal Ascot celebrated?",
+    "options": [
+    { "id": "A", "text": "Surrey" },
+    { "id": "B", "text": "Berkshire" },
+    { "id": "C", "text": "Sussex" },
+    { "id": "D", "text": "Kent" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 8,
+    "question": "Who was the first Briton to win the Olympic gold medal in the 10,000 meters?",
+    "options": [
+    { "id": "A", "text": "Sir Chris Hoy" },
+    { "id": "B", "text": "Mo Farah" },
+    { "id": "C", "text": "Bradley Wiggins" },
+    { "id": "D", "text": "David Weir" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 9,
+    "question": "Who was Queen Elizabeth II married to?",
+    "options": [
+    { "id": "A", "text": "Prince William" },
+    { "id": "B", "text": "Prince Charles" },
+    { "id": "C", "text": "Prince Philip" },
+    { "id": "D", "text": "Prince Harry" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 10,
+    "question": "Who was the father of Elizabeth I?",
+    "options": [
+    { "id": "A", "text": "Andrew II" },
+    { "id": "B", "text": "Henry VIII" },
+    { "id": "C", "text": "Charles I" },
+    { "id": "D", "text": "Henry VII" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 11,
+    "question": "Which of the following sentences is TRUE?",
+    "options": [
+    { "id": "A", "text": "Films were first shown publicly in the UK in 1968." },
+    { "id": "B", "text": "Films were first shown publicly in the UK in 1866." },
+    { "id": "C", "text": "Films were first shown publicly in the UK in 1896." },
+    { "id": "D", "text": "Films were first shown publicly in the UK in 1986." }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 12,
+    "question": "What name was given to the German bombing of London and other British cities at night time during the World War II?",
+    "options": [
+    { "id": "A", "text": "The Blitz" },
+    { "id": "B", "text": "The Whisper" },
+    { "id": "C", "text": "The Ambush" },
+    { "id": "D", "text": "The Flashlight" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 13,
+    "question": "Is the statement below TRUE or FALSE? The small claims procedure in Northern Ireland is used for claims of less than £5,000.",
+    "options": [
+    { "id": "A", "text": "TRUE" },
+    { "id": "B", "text": "FALSE" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 14,
+    "question": "Which of the following statements is correct?",
+    "options": [
+    { "id": "A", "text": "Arranged marriages refer to marriages where both parties agree to the marriage" },
+    { "id": "B", "text": "Arranged marriages refer to marriages where one or both parties do not give their consent to enter into the partnership" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 15,
+    "question": "What percentage of the British population has a parent or grandparent born outside of the UK as a result of post-war immigration?",
+    "options": [
+    { "id": "A", "text": "About 20% of the population" },
+    { "id": "B", "text": "About 10% of the population" },
+    { "id": "C", "text": "About 15% of the population" },
+    { "id": "D", "text": "About 35% of the population" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 16,
+    "question": "What British city is famous for its celebration of Diwali?",
+    "options": [
+    { "id": "A", "text": "Baintree" },
+    { "id": "B", "text": "Leicester" },
+    { "id": "C", "text": "Bury St Edmunds" },
+    { "id": "D", "text": "Liverpool" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 17,
+    "question": "In which FIVE matters can the Scottish Parliament legislate?",
+    "options": [
+    { "id": "A", "text": "Foreign affairs" },
+    { "id": "B", "text": "Education" },
+    { "id": "C", "text": "Health" },
+    { "id": "D", "text": "Civil and criminal law" },
+    { "id": "E", "text": "Additional tax-raising powers" },
+    { "id": "F", "text": "Planning" },
+    { "id": "G", "text": "Taxation" }
+    ],
+    "answer": ["B", "C", "D", "E", "F"]
+    },
+    {
+    "id": 18,
+    "question": "What is believed to be the oldest continuously working film studio facility in the world?",
+    "options": [
+    { "id": "A", "text": "Ealing Studios" },
+    { "id": "B", "text": "Columbia Pictures" },
+    { "id": "C", "text": "20th Century Fox" },
+    { "id": "D", "text": "Universal Pictures" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 19,
+    "question": "When did the first Christian communities begin to appear in Britain?",
+    "options": [
+    { "id": "A", "text": "During the 1st and 2nd centuries AD" },
+    { "id": "B", "text": "During the 2nd and 3rd centuries AD" },
+    { "id": "C", "text": "During the 3rd and 4th centuries AD" },
+    { "id": "D", "text": "During the 4th and 5th centuries AD" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 20,
+    "question": "How long do the Proms last?",
+    "options": [
+    { "id": "A", "text": "8 weeks" },
+    { "id": "B", "text": "6 weeks" },
+    { "id": "C", "text": "5 weeks" },
+    { "id": "D", "text": "7 weeks" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 21,
+    "question": "What is Dame Ellen MacArthur famous for?",
+    "options": [
+    { "id": "A", "text": "She won the women's singles in the US Open in 2012" },
+    { "id": "B", "text": "She won gold medals in the 2012 Olympics for the 5,000 and 10,000 meters" },
+    { "id": "C", "text": "She is the fastest person to have sailed around the world single-handed" },
+    { "id": "D", "text": "She became the first Briton to win the Tour de France" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 22,
+    "question": "Which of the following is NOT a devolved administration?",
+    "options": [
+    { "id": "A", "text": "The Scottish Parliament" },
+    { "id": "B", "text": "The Welsh Assembly" },
+    { "id": "C", "text": "The Irish Parliament" },
+    { "id": "D", "text": "The Northern Ireland Assembly" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 23,
+    "question": "When was the first Union flag created?",
+    "options": [
+    { "id": "A", "text": "1515" },
+    { "id": "B", "text": "1616" },
+    { "id": "C", "text": "1606" },
+    { "id": "D", "text": "1505" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 24,
+    "question": "Which of the following statements is true?",
+    "options": [
+    { "id": "A", "text": "Living people can donate blood and a kidney." },
+    { "id": "B", "text": "Living people can donate blood and both kidneys." },
+    { "id": "C", "text": "Living people can donate the liver and a kidney." },
+    { "id": "D", "text": "Living people can donate both kidneys." }
+    ],
+    "answer": "A"
+    }
+]

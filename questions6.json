@@ -1,0 +1,261 @@
+[{
+    "id": 1,
+    "question": "What movie was directed by Mike Newell in 1994?",
+    "options": [
+    { "id": "A", "text": "Four Weddings and a Funeral" },
+    { "id": "B", "text": "The Belles of St Trinian's" },
+    { "id": "C", "text": "Don't Look Now" },
+    { "id": "D", "text": "The 39 Steps" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 2,
+    "question": "What is the name of the first major railway built in Britain?",
+    "options": [
+    { "id": "A", "text": "Eastern Railway" },
+    { "id": "B", "text": "Eurostar" },
+    { "id": "C", "text": "Great Western Railway" },
+    { "id": "D", "text": "High Speed" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 3,
+    "question": "UK residents should register their car or motorcycle at:",
+    "options": [
+    { "id": "A", "text": "The Ministry of Transport (MOT)" },
+    { "id": "B", "text": "The Local Police Office" },
+    { "id": "C", "text": "The petrol station" },
+    { "id": "D", "text": "The Driver and Vehicle Licensing Agency (DVLA)" }
+    ],
+    "answer": "D"
+    },
+    {
+    "id": 4,
+    "question": "What are trade unions?",
+    "options": [
+    { "id": "A", "text": "Associations that support each other and work together towards shared goals in democracy" },
+    { "id": "B", "text": "Associations that support each other and work together towards shared goals in development" },
+    { "id": "C", "text": "Organizations that aim to improve the pay and working conditions of their members" },
+    { "id": "D", "text": "Organizations responsible for the protection and promotion of human rights" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 5,
+    "question": "Who were the Huguenots?",
+    "options": [
+    { "id": "A", "text": "Refugees from France" },
+    { "id": "B", "text": "Refugees from Italy" },
+    { "id": "C", "text": "Refugees from Pakistan" },
+    { "id": "D", "text": "Refugees from Cyprus" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 6,
+    "question": "Where do the Welsh Assembly Members meet?",
+    "options": [
+    { "id": "A", "text": "Stormont" },
+    { "id": "B", "text": "Westminster" },
+    { "id": "C", "text": "Holyrood" },
+    { "id": "D", "text": "Senedd" }
+    ],
+    "answer": "D"
+    },
+    {
+    "id": 7,
+    "question": "What British scientist showed who gravity applied to the whole universe?",
+    "options": [
+    { "id": "A", "text": "Alan Turing" },
+    { "id": "B", "text": "Alexander Fleming" },
+    { "id": "C", "text": "Isaac Newton" },
+    { "id": "D", "text": "Ernest Rutherford" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 8,
+    "question": "Who was Elizabeth I's mother?",
+    "options": [
+    { "id": "A", "text": "Catherine Howard" },
+    { "id": "B", "text": "Anne Boleyn" },
+    { "id": "C", "text": "Catherine Parr" },
+    { "id": "D", "text": "Catherine of Aragon" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 9,
+    "question": "What composer wrote music for King George I and for his son, George II?",
+    "options": [
+    { "id": "A", "text": "George Frederick Handel" },
+    { "id": "B", "text": "Gustav Holst" },
+    { "id": "C", "text": "Ralph Vaughan Williams" },
+    { "id": "D", "text": "Henry Purcell" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 10,
+    "question": "Which of the following is the responsibility of the Foreign Secretary?",
+    "options": [
+    { "id": "A", "text": "Economy" },
+    { "id": "B", "text": "Education and health" },
+    { "id": "C", "text": "Managing relationships with foreign countries" },
+    { "id": "D", "text": "Crime, policing and immigration" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 11,
+    "question": "A popular way for people to stay in touch with friends, organise social events, and share photos, videos and opinions is through social networking websites such as:",
+    "options": [
+    { "id": "A", "text": "Dropbox and iTunes" },
+    { "id": "B", "text": "Email and Fax" },
+    { "id": "C", "text": "eBay and Amazon" },
+    { "id": "D", "text": "Facebook and Twitter" }
+    ],
+    "answer": "D"
+    },
+    {
+    "id": 12,
+    "question": "What sort of battle was 'the Battle of Britain'?",
+    "options": [
+    { "id": "A", "text": "A naval battle against the French" },
+    { "id": "B", "text": "An aerial battle against the Germans" },
+    { "id": "C", "text": "An aerial battle against the French" },
+    { "id": "D", "text": "A naval battle against the Spanish" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 13,
+    "question": "Why is it important to recycle (select two answers)?",
+    "options": [
+    { "id": "A", "text": "It is a criminal offence and you could be arrested if you do not do it" },
+    { "id": "B", "text": "The Mousetrap is an environmental policy aiming to prevent mice from destroying crops" },
+    { "id": "C", "text": "To reduce the expenses of the local council" },
+    { "id": "D", "text": "Less rubbish is created, so the amount being put into landfill is reduced" }
+    ],
+    "answer": ["A", "D"]
+    },
+    {
+    "id": 14,
+    "question": "When is the birth of Jesus Christ celebrated?",
+    "options": [
+    { "id": "A", "text": "24th December" },
+    { "id": "B", "text": "25th December" },
+    { "id": "C", "text": "26th December" },
+    { "id": "D", "text": "31st December" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 15,
+    "question": "What is the area covered by Loch Lomond and the Trossachs National Park?",
+    "options": [
+    { "id": "A", "text": "720 square miles" },
+    { "id": "B", "text": "840 square miles" },
+    { "id": "C", "text": "620 square miles" },
+    { "id": "D", "text": "940 square miles" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 16,
+    "question": "In which city is the Millennium Stadium located?",
+    "options": [
+    { "id": "A", "text": "Birmingham" },
+    { "id": "B", "text": "Nottingham" },
+    { "id": "C", "text": "Liverpool" },
+    { "id": "D", "text": "Cardiff" }
+    ],
+    "answer": "D"
+    },
+    {
+    "id": 17,
+    "question": "When was the first tennis club founded in the United Kingdom?",
+    "options": [
+    { "id": "A", "text": "1860" },
+    { "id": "B", "text": "1872" },
+    { "id": "C", "text": "1902" },
+    { "id": "D", "text": "1892" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 18,
+    "question": "What kind of sport is played at the Wimbledon Championships?",
+    "options": [
+    { "id": "A", "text": "Football" },
+    { "id": "B", "text": "Tennis" },
+    { "id": "C", "text": "Rugby" },
+    { "id": "D", "text": "Cricket" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 19,
+    "question": "Where is the MP's office situated?",
+    "options": [
+    { "id": "A", "text": "At the House of Commons" },
+    { "id": "B", "text": "At Whitehall" },
+    { "id": "C", "text": "At 10 Downing Street" },
+    { "id": "D", "text": "At the House of Lords" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 20,
+    "question": "Where was Isaac Newton from?",
+    "options": [
+    { "id": "A", "text": "Lincolnshire" },
+    { "id": "B", "text": "Stratford-upon-Avon" },
+    { "id": "C", "text": "Cardiff" },
+    { "id": "D", "text": "Edinburgh" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 21,
+    "question": "Is the statement below TRUE or FALSE? The Council of Europe has the power to make new laws.",
+    "options": [
+    { "id": "A", "text": "TRUE" },
+    { "id": "B", "text": "FALSE" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 22,
+    "question": "Which TWO British poets wrote about their experiences in WWI?",
+    "options": [
+    { "id": "A", "text": "Lord Byron and Percy Shelley" },
+    { "id": "B", "text": "John Keats and Alfred Lord Tennyson" },
+    { "id": "C", "text": "Robert and Elizabeth Browning" },
+    { "id": "D", "text": "Wilfred Owen and Siegfried Sassoon" }
+    ],
+    "answer": "D"
+    },
+    {
+    "id": 23,
+    "question": "Is the statement below TRUE or FALSE? If you are facing domestic violence, you can phone the 24-hour National Domestic Violence Freephone Helpline, or the police can help you find a safe place to stay.",
+    "options": [
+    { "id": "A", "text": "TRUE" },
+    { "id": "B", "text": "FALSE" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 24,
+    "question": "If you are found driving while exceeding the alcohol limit, you will:",
+    "options": [
+    { "id": "A", "text": "Not be allowed to drive again" },
+    { "id": "B", "text": "Be taken to the hospital" },
+    { "id": "C", "text": "Be arrested" },
+    { "id": "D", "text": "Be taken home by the police" }
+    ],
+    "answer": "C"
+    }
+]

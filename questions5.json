@@ -1,0 +1,264 @@
+[
+    {
+        "id": 1,
+        "question": "Which of the following is an environmental charity?",
+        "options": [
+        { "id": "A", "text": "Crisis" },
+        { "id": "B", "text": "The National Trust" },
+        { "id": "C", "text": "Shelter" },
+        { "id": "D", "text": "Heart Foundation" }
+        ],
+        "answer": "B"
+        },
+        {
+        "id": 2,
+        "question": "Which of these venues is located in Greenwich?",
+        "options": [
+        { "id": "A", "text": "The SECC" },
+        { "id": "B", "text": "Auditorio de Tenerife" },
+        { "id": "C", "text": "The O2" },
+        { "id": "D", "text": "The Copenhagen Concert Hall" }
+        ],
+        "answer": "C"
+        },
+        {
+        "id": 3,
+        "question": "Which of the following ingredients are used to make Welsh cakes?",
+        "options": [
+        { "id": "A", "text": "Flour, onions and oatmeal" },
+        { "id": "B", "text": "Flour, dried fruits and spices" },
+        { "id": "C", "text": "Potatoes, dried fruits and vegetables" },
+        { "id": "D", "text": "Bacon, potatoes, sausage, black pudding and flour" }
+        ],
+        "answer": "B"
+        },
+        {
+        "id": 4,
+        "question": "Which river banks the London Eye?",
+        "options": [
+        { "id": "A", "text": "Trent" },
+        { "id": "B", "text": "Severn" },
+        { "id": "C", "text": "Wye" },
+        { "id": "D", "text": "Thames" }
+        ],
+        "answer": "D"
+        },
+        {
+        "id": 5,
+        "question": "What other name is given to the Conservative Party?",
+        "options": [
+        { "id": "A", "text": "The Laborers" },
+        { "id": "B", "text": "The Tories" },
+        { "id": "C", "text": "The Communists" },
+        { "id": "D", "text": "The Whigs" }
+        ],
+        "answer": "B"
+        },
+        {
+        "id": 6,
+        "question": "What is the 'King James' Bible?",
+        "options": [
+        { "id": "A", "text": "A new translation into English" },
+        { "id": "B", "text": "The First English Bible" },
+        { "id": "C", "text": "The Correct Version" },
+        { "id": "D", "text": "The Protestant Version" }
+        ],
+        "answer": "A"
+        },
+        {
+        "id": 7,
+        "question": "Is the statement below TRUE or FALSE? London has 23 local authorities, with the Greater London Authority and the Mayor of London coordinating policies across the capital.",
+        "options": [
+        { "id": "A", "text": "TRUE" },
+        { "id": "B", "text": "FALSE" }
+        ],
+        "answer": "B"
+        },
+        {
+        "id": 8,
+        "question": "What were the working conditions like during the Industrial Revolution?",
+        "options": [
+        { "id": "A", "text": "Average" },
+        { "id": "B", "text": "Acceptable" },
+        { "id": "C", "text": "Best in the World" },
+        { "id": "D", "text": "Very Poor" }
+        ],
+        "answer": "D"
+        },
+        {
+        "id": 9,
+        "question": "Which of the following countries is not a member of the Commonwealth?",
+        "options": [
+        { "id": "A", "text": "Swaziland" },
+        { "id": "B", "text": "Trinidad and Tobago" },
+        { "id": "C", "text": "Dominica" },
+        { "id": "D", "text": "Costa Rica" }
+        ],
+        "answer": "D"
+        },
+        {
+        "id": 10,
+        "question": "How many member states does the UN have?",
+        "options": [
+        { "id": "A", "text": "27" },
+        { "id": "B", "text": "5" },
+        { "id": "C", "text": "15" },
+        { "id": "D", "text": "190" }
+        ],
+        "answer": "D"
+        },
+        {
+        "id": 11,
+        "question": "The spiritual leader of the Church of England is:",
+        "options": [
+        { "id": "A", "text": "St Andrew" },
+        { "id": "B", "text": "The Pope" },
+        { "id": "C", "text": "St Augustine" },
+        { "id": "D", "text": "The Archbishop of Canterbury" }
+        ],
+        "answer": "D"
+        },
+        {
+        "id": 12,
+        "question": "Which party did Margaret Thatcher belong to?",
+        "options": [
+        { "id": "A", "text": "UKIP" },
+        { "id": "B", "text": "Conservative" },
+        { "id": "C", "text": "Liberal Democrats" },
+        { "id": "D", "text": "Labour" }
+        ],
+        "answer": "B"
+        },
+        {
+        "id": 13,
+        "question": "What is the minimum age requirement for an individual to be able to go into betting shops or gambling clubs?",
+        "options": [
+        { "id": "A", "text": "15" },
+        { "id": "B", "text": "16" },
+        { "id": "C", "text": "17" },
+        { "id": "D", "text": "18" }
+        ],
+        "answer": "D"
+        },
+        {
+        "id": 14,
+        "question": "Where can you get help if you can't afford to pay a vet?",
+        "options": [
+        { "id": "A", "text": "Charities" },
+        { "id": "B", "text": "Your vet" },
+        { "id": "C", "text": "Family" },
+        { "id": "D", "text": "Friends" }
+        ],
+        "answer": "A"
+        },
+        {
+        "id": 15,
+        "question": "Which of the following discoveries helped with the development of machinery during the Industrial Revolution?",
+        "options": [
+        { "id": "A", "text": "The hovercraft" },
+        { "id": "B", "text": "The World Wide Web" },
+        { "id": "C", "text": "The Turing machine" },
+        { "id": "D", "text": "The Steam power" }
+        ],
+        "answer": "D"
+        },
+        {
+        "id": 16,
+        "question": "What does the Turner Prize celebrate?",
+        "options": [
+        { "id": "A", "text": "The Best Play" },
+        { "id": "B", "text": "The Best Song" },
+        { "id": "C", "text": "Contemporary Art" },
+        { "id": "D", "text": "The Best Album" }
+        ],
+        "answer": "C"
+        },
+        {
+        "id": 17,
+        "question": "Magistrates and Justices of the Peace (JPs) are members of the",
+        "options": [
+        { "id": "A", "text": "Government" },
+        { "id": "B", "text": "Local community" },
+        { "id": "C", "text": "British Society" },
+        { "id": "D", "text": "NHS" }
+        ],
+        "answer": "B"
+        },
+        {
+        "id": 18,
+        "question": "The Chancellor of the Exchequer is responsible for which area of government policy?",
+        "options": [
+        { "id": "A", "text": "Economy" },
+        { "id": "B", "text": "Education" },
+        { "id": "C", "text": "Health" },
+        { "id": "D", "text": "Immigration" }
+        ],
+        "answer": "A"
+        },
+        {
+        "id": 19,
+        "question": "Who ordered to write the Book of Common Prayer?",
+        "options": [
+        { "id": "A", "text": "Edward VI" },
+        { "id": "B", "text": "Henry VII" },
+        { "id": "C", "text": "Henry VIII" },
+        { "id": "D", "text": "Queen Mary" }
+        ],
+        "answer": "A"
+        },
+        {
+        "id": 20,
+        "question": "In which year did Sir Alfred Hitchcock die?",
+        "options": [
+        { "id": "A", "text": "1982" },
+        { "id": "B", "text": "1985" },
+        { "id": "C", "text": "1976" },
+        { "id": "D", "text": "1980" }
+        ],
+        "answer": "D"
+        },
+        {
+        "id": 21,
+        "question": "How many types of rugby are practiced in the UK?",
+        "options": [
+        { "id": "A", "text": "Rugby Union only" },
+        { "id": "B", "text": "Rugby is not practiced in the UK" },
+        { "id": "C", "text": "Rugby League only" },
+        { "id": "D", "text": "Rugby Union and Rugby League" }
+        ],
+        "answer": "D"
+        },
+        {
+        "id": 22,
+        "question": "How many members form the United Nations Security Council?",
+        "options": [
+        { "id": "A", "text": "20" },
+        { "id": "B", "text": "15" },
+        { "id": "C", "text": "18" },
+        { "id": "D", "text": "25" }
+        ],
+        "answer": "B"
+        },
+        {
+        "id": 23,
+        "question": "Where can you find the ship HMS Victory now?",
+        "options": [
+        { "id": "A", "text": "Dorset" },
+        { "id": "B", "text": "Portsmouth" },
+        { "id": "C", "text": "Edinburgh" },
+        { "id": "D", "text": "London" }
+        ],
+        "answer": "B"
+        },
+        {
+        "id": 24,
+        "question": "Which countries fought alongside Britain against Russia during the Crimean War?",
+        "options": [
+        { "id": "A", "text": "France and Cyprus" },
+        { "id": "B", "text": "Germany and Cyprus" },
+        { "id": "C", "text": "Germany and Turkey" },
+        { "id": "D", "text": "France and Turkey" }
+        ],
+        "answer": "D"
+        }
+]

@@ -1,0 +1,263 @@
+[{
+    "id": 1,
+    "question": "After the Black Death, new social classes appeared in England, including owners of large areas of land known as:",
+    "options": [
+    { "id": "A", "text": "Gentry" },
+    { "id": "B", "text": "Clans" },
+    { "id": "C", "text": "Nobilion" },
+    { "id": "D", "text": "Gerdies" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 2,
+    "question": "Which of the following countries were granted their independence in 1947 (choose THREE answers)?",
+    "options": [
+    { "id": "A", "text": "India" },
+    { "id": "B", "text": "Bangladesh" },
+    { "id": "C", "text": "Pakistan" },
+    { "id": "D", "text": "Ceylon (Sri Lanka)" }
+    ],
+    "answer": ["A", "C", "D"]
+    },
+    {
+    "id": 3,
+    "question": "Who were the Puritans?",
+    "options": [
+    { "id": "A", "text": "A group of Catholics who advocated strict and simple religious doctrine and worship" },
+    { "id": "B", "text": "A group of Protestants who advocated strict and simple religious doctrine and worship" },
+    { "id": "C", "text": "A group of landowners from the 18th century" },
+    { "id": "D", "text": "A group of local leaders that surged in Wales with strict religious views" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 4,
+    "question": "In which British county is the hill fort of Maiden Castle located?",
+    "options": [
+    { "id": "A", "text": "Dorset" },
+    { "id": "B", "text": "Slough" },
+    { "id": "C", "text": "Edinburgh" },
+    { "id": "D", "text": "Canterbury" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 5,
+    "question": "Which TWO pop music groups became popular in the 1960s?",
+    "options": [
+    { "id": "A", "text": "Queen" },
+    { "id": "B", "text": "The Rolling Stones" },
+    { "id": "C", "text": "The Beatles" },
+    { "id": "D", "text": "The Carpenters" }
+    ],
+    "answer": ["B", "C"]
+    },
+    {
+    "id": 6,
+    "question": "Which of the following words comes from the Viking language?",
+    "options": [
+    { "id": "A", "text": "Table" },
+    { "id": "B", "text": "Scunthorpe" },
+    { "id": "C", "text": "Pencil" },
+    { "id": "D", "text": "Rabbit" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 7,
+    "question": "What system is used by self-employed individuals to pay for their taxes?",
+    "options": [
+    { "id": "A", "text": "Self-assessment" },
+    { "id": "B", "text": "Revision system" },
+    { "id": "C", "text": "NI Assessment" },
+    { "id": "D", "text": "Pay As You Earn" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 8,
+    "question": "Which TWO of the following British actresses have recently won an Oscar?",
+    "options": [
+    { "id": "A", "text": "Dame Judi Dench" },
+    { "id": "B", "text": "Kate Burton" },
+    { "id": "C", "text": "Tilda Swinton" },
+    { "id": "D", "text": "Amanda Abbington" }
+    ],
+    "answer": ["A", "C"]
+    },
+    {
+    "id": 9,
+    "question": "Who gave Henry VIII the son he wanted, Edward?",
+    "options": [
+    { "id": "A", "text": "Jane Seymour" },
+    { "id": "B", "text": "Catherine of Aragon" },
+    { "id": "C", "text": "Anne of Cleves" },
+    { "id": "D", "text": "Catherine Parr" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 10,
+    "question": "What is the Stormont?",
+    "options": [
+    { "id": "A", "text": "The more important of the two chambers in Parliament" },
+    { "id": "B", "text": "The building where the members of the Welsh Assembly meet" },
+    { "id": "C", "text": "The building where the members of the Northern Ireland Assembly meet" },
+    { "id": "D", "text": "The building where the members of the Scottish Parliament meet" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 11,
+    "question": "How often does the Edinburgh Festival take place?",
+    "options": [
+    { "id": "A", "text": "Every six months" },
+    { "id": "B", "text": "Every summer" },
+    { "id": "C", "text": "Every spring" },
+    { "id": "D", "text": "Every month" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 12,
+    "question": "Which of the following countries is NOT a member of the Commonwealth?",
+    "options": [
+    { "id": "A", "text": "Uganda" },
+    { "id": "B", "text": "Ghana" },
+    { "id": "C", "text": "Malawi" },
+    { "id": "D", "text": "Zimbabwe" }
+    ],
+    "answer": "D"
+    },
+    {
+    "id": 13,
+    "question": "When did the UK sign the European Convention of Human Rights?",
+    "options": [
+    { "id": "A", "text": "1950" },
+    { "id": "B", "text": "1949" },
+    { "id": "C", "text": "1948" },
+    { "id": "D", "text": "1947" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 14,
+    "question": "What marked the beginning of what is called 'constitutional monarchy'?",
+    "options": [
+    { "id": "A", "text": "The laws passed after the Glorious Revolution" },
+    { "id": "B", "text": "A speech given by the King" },
+    { "id": "C", "text": "The emergence of new ideas about politics, philosophy and science" },
+    { "id": "D", "text": "The development of the Bessemer process" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 15,
+    "question": "Queen Victoria became queen in:",
+    "options": [
+    { "id": "A", "text": "1836" },
+    { "id": "B", "text": "1837" },
+    { "id": "C", "text": "1835" },
+    { "id": "D", "text": "1847" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 16,
+    "question": "Why did Ireland suffer a famine in the middle of the 19th century?",
+    "options": [
+    { "id": "A", "text": "There was a heat wave" },
+    { "id": "B", "text": "The whole country was flooded" },
+    { "id": "C", "text": "The potato crop failed" },
+    { "id": "D", "text": "There were not enough farmers" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 17,
+    "question": "How many British died on the first day alone of the Battle of Somme?",
+    "options": [
+    { "id": "A", "text": "60,000" },
+    { "id": "B", "text": "65,000" },
+    { "id": "C", "text": "40,000" },
+    { "id": "D", "text": "55,000" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 18,
+    "question": "Which of the following territories is not part of the UK?",
+    "options": [
+    { "id": "A", "text": "Northern Ireland" },
+    { "id": "B", "text": "The Isle of Man" },
+    { "id": "C", "text": "Wales" },
+    { "id": "D", "text": "Scotland" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 19,
+    "question": "What film was directed by Hugh Hudson in 1981?",
+    "options": [
+    { "id": "A", "text": "Don't Look Now" },
+    { "id": "B", "text": "Chariots of Fire" },
+    { "id": "C", "text": "Lawrence of Arabia" },
+    { "id": "D", "text": "The Third Man" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 20,
+    "question": "Who cannot stand for public office (select THREE answers)?",
+    "options": [
+    { "id": "A", "text": "Members of the Armed Forces" },
+    { "id": "B", "text": "Members of the Commonwealth" },
+    { "id": "C", "text": "Civil servants" },
+    { "id": "D", "text": "People found guilty of certain criminal offences" }
+    ],
+    "answer": ["A", "C", "D"]
+    },
+    {
+    "id": 21,
+    "question": "What do Sir Terence Conran, Clarice Cliff and Thomas",
+    "options": [
+    { "id": "A", "text": "They were British designers" },
+    { "id": "B", "text": "They developed the atomic bomb" },
+    { "id": "C", "text": "They were British explorers" },
+    { "id": "D", "text": "They were British poets" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 22,
+    "question": "What percentage of people said that they had no religion, according to the Citizenship Survey carried out in the UK in 2009?",
+    "options": [
+    { "id": "A", "text": "14%" },
+    { "id": "B", "text": "8%" },
+    { "id": "C", "text": "32%" },
+    { "id": "D", "text": "21%" }
+    ],
+    "answer": "D"
+    },
+    {
+    "id": 23,
+    "question": "Is the statement below TRUE or FALSE? People on the electoral register with ages between 18 and 70 can be asked to serve on a jury.",
+    "options": [
+    { "id": "A", "text": "TRUE" },
+    { "id": "B", "text": "FALSE" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 24,
+    "question": "Which of the following sentences is TRUE?",
+    "options": [
+    { "id": "A", "text": "Not all dogs need to be vaccinated" },
+    { "id": "B", "text": "It is against the law to treat a pet cruelly or to neglect it" },
+    { "id": "C", "text": "Not many people in the UK have pets" },
+    { "id": "D", "text": "It is against the law to take pets into public place." }
+    ],
+    "answer": "B"
+    }
+]

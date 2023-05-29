@@ -1,0 +1,263 @@
+[{
+    "id": 1,
+    "question": "Which TWO of the following are core values of a civil servant?",
+    "options": [
+    { "id": "A", "text": "Objectivity" },
+    { "id": "B", "text": "Competitiveness" },
+    { "id": "C", "text": "Talent" },
+    { "id": "D", "text": "Honesty" }
+    ],
+    "answer": ["A", "D"]
+    },
+    {
+    "id": 2,
+    "question": "What Scottish poet wrote the song 'Auld Lang Syne'?",
+    "options": [
+    { "id": "A", "text": "Robert Burns" },
+    { "id": "B", "text": "Dylan Thomas" },
+    { "id": "C", "text": "Sir Arthur Conan Doyle" },
+    { "id": "D", "text": "Sir Walter Scott" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 3,
+    "question": "Which of the following countries belongs to the European Union?",
+    "options": [
+    { "id": "A", "text": "Norway" },
+    { "id": "B", "text": "Switzerland" },
+    { "id": "C", "text": "Croatia" },
+    { "id": "D", "text": "Algeria" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 4,
+    "question": "When was England ruled by a republic and not by a monarch?",
+    "options": [
+    { "id": "A", "text": "When King Harold died after the Battle of Hastings" },
+    { "id": "B", "text": "When the Carta Magna restricted the king's power" },
+    { "id": "C", "text": "When Elizabeth I died without any successor" },
+    { "id": "D", "text": "When Charles I was executed" }
+    ],
+    "answer": "D"
+    },
+    {
+    "id": 5,
+    "question": "What is NOT considered to be one of the main parts of the British government?",
+    "options": [
+    { "id": "A", "text": "The judiciary" },
+    { "id": "B", "text": "The United Nations" },
+    { "id": "C", "text": "The monarchy" },
+    { "id": "D", "text": "The cabinet" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 6,
+    "question": "What name was given to the members of the Women's Social and Political Union founded in 1903?",
+    "options": [
+    { "id": "A", "text": "Gentry" },
+    { "id": "B", "text": "Boers" },
+    { "id": "C", "text": "Rebels" },
+    { "id": "D", "text": "Suffragettes" }
+    ],
+    "answer": "D"
+    },
+    {
+    "id": 7,
+    "question": "Where is the most popular sailing event in the UK celebrated?",
+    "options": [
+    { "id": "A", "text": "At Iona Island, Scotland" },
+    { "id": "B", "text": "At Cowes, on the Isle of Wight" },
+    { "id": "C", "text": "At Jersey, on the Channel Islands" },
+    { "id": "D", "text": "At Guernsey, on the Channel Islands" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 8,
+    "question": "In which country of the British Empire did the Boer War take place?",
+    "options": [
+    { "id": "A", "text": "South Africa" },
+    { "id": "B", "text": "India" },
+    { "id": "C", "text": "Bangladesh" },
+    { "id": "D", "text": "Mauritius" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 9,
+    "question": "Who was the Prime Minister of the United Kingdom between 1945 and 1951?",
+    "options": [
+    { "id": "A", "text": "Ramsay MacDonald" },
+    { "id": "B", "text": "George Grenville" },
+    { "id": "C", "text": "Henry Pelham" },
+    { "id": "D", "text": "Clement Attlee" }
+    ],
+    "answer": "D"
+    },
+    {
+    "id": 10,
+    "question": "When is the National Anthem usually played (choose TWO options)?",
+    "options": [
+    { "id": "A", "text": "At important national occasions" },
+    { "id": "B", "text": "At the church on Sundays" },
+    { "id": "C", "text": "At events attended by the King or the Royal Family" },
+    { "id": "D", "text": "At the beginning of the Premier League matches" }
+    ],
+    "answer": ["A", "C"]
+    },
+    {
+    "id": 11,
+    "question": "The Scottish physician and researcher John Macleod was involved in the discovery of:",
+    "options": [
+    { "id": "A", "text": "The structure of the DNA molecule" },
+    { "id": "B", "text": "The insulin" },
+    { "id": "C", "text": "The IVF (in-vitro fertilisation) therapy" },
+    { "id": "D", "text": "The radar" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 12,
+    "question": "How many countries comprised the European Economic Community in 1957?",
+    "options": [
+    { "id": "A", "text": "5" },
+    { "id": "B", "text": "6" },
+    { "id": "C", "text": "9" },
+    { "id": "D", "text": "8" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 13,
+    "question": "Which of the following was a British poet?",
+    "options": [
+    { "id": "A", "text": "Henry Wadsworth" },
+    { "id": "B", "text": "Guy Butler" },
+    { "id": "C", "text": "Sir Terence Conran" },
+    { "id": "D", "text": "William Wordsworth" }
+    ],
+    "answer": "D"
+    },
+    {
+    "id": 14,
+    "question": "Which of the following matters can be controlled by the devolved administrations?",
+    "options": [
+    { "id": "A", "text": "Social Security" },
+    { "id": "B", "text": "Education" },
+    { "id": "C", "text": "Taxation" },
+    { "id": "D", "text": "Defence" }
+    ],
+    "answer": "B"
+    },
+    {
+    "id": 15,
+    "question": "Do you need a TV licence for watching TV on a mobile phone?",
+    "options": [
+    { "id": "A", "text": "Yes" },
+    { "id": "B", "text": "No" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 16,
+    "question": "The official home of the Prime Minister is in:",
+    "options": [
+    { "id": "A", "text": "20 Western Road" },
+    { "id": "B", "text": "Buckingham Palace" },
+    { "id": "C", "text": "10 Downing Street" },
+    { "id": "D", "text": "12 High Street" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 17,
+    "question": "Who wrote the novel 'Charlie and the Chocolate Factory'?",
+    "options": [
+    { "id": "A", "text": "Rudyard Kipling" },
+    { "id": "B", "text": "Sir William Golding" },
+    { "id": "C", "text": "Charles Dickens" },
+    { "id": "D", "text": "Roald Dahl" }
+    ],
+    "answer": "D"
+    },
+    {
+    "id": 18,
+    "question": "The Normans used a system of land ownership known as",
+    "options": [
+    { "id": "A", "text": "Clergy" },
+    { "id": "B", "text": "Chartism" },
+    { "id": "C", "text": "Feudalism" },
+    { "id": "D", "text": "Imperialism" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 19,
+    "question": "How many ski centres does Scotland have?",
+    "options": [
+    { "id": "A", "text": "10" },
+    { "id": "B", "text": "3" },
+    { "id": "C", "text": "5" },
+    { "id": "D", "text": "4" }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 20,
+    "question": "Who forms the judiciary?",
+    "options": [
+    { "id": "A", "text": "The judges together" },
+    { "id": "B", "text": "The hereditary peers" },
+    { "id": "C", "text": "The shadow cabinet" },
+    { "id": "D", "text": "The MPs together" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 21,
+    "question": "Which of the following statements is TRUE?",
+    "options": [
+    { "id": "A", "text": "The official name of the country is the United Kingdom of Great Britain and Southern Ireland." },
+    { "id": "B", "text": "The official name of the country is Great Britain and Southern Ireland." },
+    { "id": "C", "text": "The official name of the country is the United Kingdom of Great Britain and Northern Ireland." },
+    { "id": "D", "text": "The official name of the country is the United Kingdom and Great Ireland." }
+    ],
+    "answer": "C"
+    },
+    {
+    "id": 22,
+    "question": "When is Mothering Sunday?",
+    "options": [
+    { "id": "A", "text": "Is the Sunday three weeks before Easter." },
+    { "id": "B", "text": "Is the Sunday three weeks after Easter." },
+    { "id": "C", "text": "Is the Sunday three weeks before Christmas." },
+    { "id": "D", "text": "Is the Sunday three weeks after Christmas." }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 23,
+    "question": "During Ramadan, how long do Muslims fast for?",
+    "options": [
+    { "id": "A", "text": "A month" },
+    { "id": "B", "text": "A day" },
+    { "id": "C", "text": "Two days" },
+    { "id": "D", "text": "Three days" }
+    ],
+    "answer": "A"
+    },
+    {
+    "id": 24,
+    "question": "When did William of Orange invade England to proclaim himself king?",
+    "options": [
+    { "id": "A", "text": "1689" },
+    { "id": "B", "text": "1690" },
+    { "id": "C", "text": "1688" },
+    { "id": "D", "text": "1687" }
+    ],
+    "answer": "C"
+    }
+]

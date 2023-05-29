@@ -1,0 +1,262 @@
+[
+    {
+        "id": 1,
+        "question": "What does the abbreviation MSPS stand for?",
+        "options": [
+        { "id": "A", "text": "Members of the Scottish Parliament" },
+        { "id": "B", "text": "Ministers of the Scottish Parliament" },
+        { "id": "C", "text": "Members of the Parliament" },
+        { "id": "D", "text": "Ministers of the Parliament" }
+        ],
+        "answer": "A"
+        },
+        {
+        "id": 2,
+        "question": "What is the official report that contains everything said in Parliament called?",
+        "options": [
+        { "id": "A", "text": "Hansard" },
+        { "id": "B", "text": "The Domesday Book" },
+        { "id": "C", "text": "The Government press" },
+        { "id": "D", "text": "The Government report" }
+        ],
+        "answer": "A"
+        },
+        {
+        "id": 3,
+        "question": "Is the statement below TRUE or FALSE? Britain became permanently separated from the continent by the Channel about 11,000 years ago.",
+        "options": [
+        { "id": "A", "text": "TRUE" },
+        { "id": "B", "text": "FALSE" }
+        ],
+        "answer": "B"
+        },
+        {
+        "id": 4,
+        "question": "Who can get a 50% discount on their TV license?",
+        "options": [
+        { "id": "A", "text": "Tall People" },
+        { "id": "B", "text": "Blind people" },
+        { "id": "C", "text": "Deaf people" },
+        { "id": "D", "text": "Army Officers" }
+        ],
+        "answer": "B"
+        },
+        {
+        "id": 5,
+        "question": "How old do you need to be to be able to buy alcohol in a pub or nightclub in the UK?",
+        "options": [
+        { "id": "A", "text": "17 or over" },
+        { "id": "B", "text": "18 or over" },
+        { "id": "C", "text": "21 or over" },
+        { "id": "D", "text": "25 or over" }
+        ],
+        "answer": "B"
+        },
+        {
+        "id": 6,
+        "question": "What is the name of a murder-mystery play by Dame Agatha Christie?",
+        "options": [
+        { "id": "A", "text": "HMS Pinafore" },
+        { "id": "B", "text": "The Phantom of the Opera" },
+        { "id": "C", "text": "The Mousetrap" },
+        { "id": "D", "text": "The Pirates of Penzance" }
+        ],
+        "answer": "C"
+        },
+        {
+        "id": 7,
+        "question": "'Park' is a word that comes from:",
+        "options": [
+        { "id": "A", "text": "The Anglo-Saxon" },
+        { "id": "B", "text": "The Norman French" },
+        { "id": "C", "text": "The Romans" },
+        { "id": "D", "text": "The Dutch" }
+        ],
+        "answer": "B"
+        },
+        {
+        "id": 8,
+        "question": "When did Ireland split into 2 countries?",
+        "options": [
+        { "id": "A", "text": "1934" },
+        { "id": "B", "text": "1925" },
+        { "id": "C", "text": "1949" },
+        { "id": "D", "text": "1922" }
+        ],
+        "answer": "D"
+        },
+        {
+        "id": 9,
+        "question": "Which TWO of the following countries were part of the Central Powers during the First World War?",
+        "options": [
+        { "id": "A", "text": "Germany" },
+        { "id": "B", "text": "Greece" },
+        { "id": "C", "text": "Bulgaria" },
+        { "id": "D", "text": "Romania" }
+        ],
+        "answer": ["A", "C"]
+        },
+        {
+        "id": 10,
+        "question": "What percentage of the UK population is Sikh?",
+        "options": [
+        { "id": "A", "text": "4%" },
+        { "id": "B", "text": "1%" },
+        { "id": "C", "text": "3%" },
+        { "id": "D", "text": "2%" }
+        ],
+        "answer": "B"
+        },
+        {
+        "id": 11,
+        "question": "If after the UK elections no party wins a majority, two parties may join together and form what is known as a:",
+        "options": [
+        { "id": "A", "text": "By-election" },
+        { "id": "B", "text": "Democracy" },
+        { "id": "C", "text": "Coalition" },
+        { "id": "D", "text": "Dual-election" }
+        ],
+        "answer": "C"
+        },
+        {
+        "id": 12,
+        "question": "When did the Roman army leave Britain?",
+        "options": [
+        { "id": "A", "text": "AD 410" },
+        { "id": "B", "text": "AD 630" },
+        { "id": "C", "text": "AD 100" },
+        { "id": "D", "text": "AD 43" }
+        ],
+        "answer": "A"
+        },
+        {
+        "id": 13,
+        "question": "The opera The Pirates of Penzance was written by:",
+        "options": [
+        { "id": "A", "text": "Tim Rice" },
+        { "id": "B", "text": "Dame Agatha Christie" },
+        { "id": "C", "text": "Sir Laurence Olivier" },
+        { "id": "D", "text": "Gilbert and Sullivan" }
+        ],
+        "answer": "D"
+        },
+        {
+        "id": 14,
+        "question": "What was the population of the UK in 1801?",
+        "options": [
+        { "id": "A", "text": "4 million" },
+        { "id": "B", "text": "6 million" },
+        { "id": "C", "text": "8 million" },
+        { "id": "D", "text": "9 million" }
+        ],
+        "answer": "C"
+        },
+        {
+        "id": 15,
+        "question": "Which of these gardens is located in Wales?",
+        "options": [
+        { "id": "A", "text": "Hidcote" },
+        { "id": "B", "text": "Mount Stewart" },
+        { "id": "C", "text": "Bodnant Garden" },
+        { "id": "D", "text": "Sissinghurst" }
+        ],
+        "answer": "C"
+        },
+        {
+        "id": 16,
+        "question": "What name is given to the 40 days before Easter?",
+        "options": [
+        { "id": "A", "text": "Boxing Day" },
+        { "id": "B", "text": "Hannukah" },
+        { "id": "C", "text": "Lent" },
+        { "id": "D", "text": "Vaisakhi" }
+        ],
+        "answer": "C"
+        },
+        {
+        "id": 17,
+        "question": "Which of the Houses is more important in today's Britain?",
+        "options": [
+        { "id": "A", "text": "The House of York" },
+        { "id": "B", "text": "The House of Commons" },
+        { "id": "C", "text": "The House of Lords" },
+        { "id": "D", "text": "The House of Lancaster" }
+        ],
+        "answer": "B"
+        },
+        {
+        "id": 18,
+        "question": "In which city can you find the Scottish Exhibition and Conference Centre (SECC)?",
+        "options": [
+        { "id": "A", "text": "Edinburgh" },
+        { "id": "B", "text": "Leeds" },
+        { "id": "C", "text": "Newcastle" },
+        { "id": "D", "text": "Glasgow" }
+        ],
+        "answer": "D"
+        },
+        {
+        "id": 19,
+        "question": "When was the time of growing patriotism?",
+        "options": [
+        { "id": "A", "text": "The Elizabethan period" },
+        { "id": "B", "text": "The Golden Age" },
+        { "id": "C", "text": "The Iron Age" },
+        { "id": "D", "text": "The Victorian Age" }
+        ],
+        "answer": "A"
+        },
+        {
+        "id": 20,
+        "question": "Is the statement below TRUE or FALSE? Each MP represents a parliamentary constituency, which is a large area of the country.",
+        "options": [
+        { "id": "A", "text": "TRUE" },
+        { "id": "B", "text": "FALSE" }
+        ],
+        "answer": "B"
+        },
+        {
+        "id": 21,
+        "question": "Which country(s) did Britain fight against during the Battle of Trafalgar?",
+        "options": [
+        { "id": "A", "text": "Only France" },
+        { "id": "B", "text": "Only the Netherlands" },
+        { "id": "C", "text": "France and the Netherlands" },
+        { "id": "D", "text": "Spain and France" }
+        ],
+        "answer": "D"
+        },
+        {
+        "id": 22,
+        "question": "Where is the UK located with regards to Europe?",
+        "options": [
+        { "id": "A", "text": "The northwest of Europe" },
+        { "id": "B", "text": "The southwest of Europe" },
+        { "id": "C", "text": "The northeast of Europe" },
+        { "id": "D", "text": "The southeast of Europe" }
+        ],
+        "answer": "A"
+        },
+        {
+        "id": 23,
+        "question": "Which country invented Cricket?",
+        "options": [
+        { "id": "A", "text": "Australia" },
+        { "id": "B", "text": "Wales" },
+        { "id": "C", "text": "Scotland" },
+        { "id": "D", "text": "England" }
+        ],
+        "answer": "D"
+        },
+        {
+        "id": 24,
+        "question": "Where is the Senedd located?",
+        "options": [
+        { "id": "A", "text": "Swansea Bay" },
+        { "id": "B", "text": "Carmarthen Bay" },
+        { "id": "C", "text": "Cardiff Bay" },
+        { "id": "D", "text": "Aberystwyth" }
+        ],
+        "answer": "C"
+        }
+]
